@@ -39,3 +39,5 @@ The project will progress through exercises, each contributing to the final dash
 - **Exercise 6.5:** Unsupervised Machine Learning: Clustering
 - **Exercise 6.6:** Sourcing & Analyzing Time Series Data
 - **Exercise 6.7:** Creating Data Dashboards
+
+### [Tableau Story Final Report](https://public.tableau.com/app/profile/nathan.evans6539/viz/Happy_Story_Final2/Happy_Story?publish=yes)
